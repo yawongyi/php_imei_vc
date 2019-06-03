@@ -1,5 +1,5 @@
 <!--
-(C) COPYRIGHT 2019 SKYLINK TELETECH LTD. ALL RIGHTS RESERVED.
+(C) COPYRIGHT 2019 SKYLINK TELETECH LTD. & Eric H. An, ALL RIGHTS RESERVED otherwise stated.
 For copyright inquiries, please contact at copyright@skylinktel.com
 -->
 <?php
